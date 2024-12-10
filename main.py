@@ -8,7 +8,7 @@ def main():
     print("Iniciando a criação dos recursos AWS...")
 
     # 1. Criar Bucket S3
-    bucket_name = "meu-bucket-automacao"
+    bucket_name = "bucket-jltdsjr"
     create_s3_bucket(bucket_name)
 
     # 2. Criar Tópico SNS
